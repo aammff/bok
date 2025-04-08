@@ -55,3 +55,10 @@ tzn uzyteczne ale niestosowane zupelnie    takie jakby dziury przestrzenie infor
 tez z jezykai mi listowymi to mozna listy list jakby te stin stringi reprezentowac te n nan napisy teczz homogenicznie ale jakby bez takich wskaznikow na wierzchu tylko one tam gdzies pod sspodem takie
 
 jakby no   ewnetualnie co i jeszcze inny pomysl mozn a te napisy tekstowye stringowe reprezentowac wlasnie ak jako nie pamietac ich po od poczatku albo od konca tyle ale zawsze od srodka dlaczego nie 
+
+
+albo jeszcze inny pomysl s zupelnie tak sie nie robi zeby kazdy tam element tego lancycha by l reprezontowany jako za kazdym razem na nowo tzn wprzypadku utworzenia jego kopiowany kod wszystkich
+
+operacji jakby assemblerowych z dodwaniwem nowych elementow itd taki troche kod nieco mobiliny powiazany z danymi  czyli taki dostep do tych elementow lancycha p bezposrenio poprzez te ten kod
+
+tych operacji dostepowych czyli ze ten lancuch te t danye dane bylyby mocno kodem   
