@@ -1,0 +1,15 @@
+zagadnienie akceptowania palindromów słów palindromicznych ciekawe wygląda np w pascalu stringi zdaje się są implementowane tak że jest string poprzedzony długos długością zatem test na palindromowa palindromowość
+
+jakby odbywa się bez dodatkowej pamięci  natomiast w innych implementacjach stringowcych czy  no wlasnie zalezy jak 
+
+no wlasnie chyba wiec trzy sposoby pamietaniea stringu jes jeden to jest dlugosc plus i konsekutywny ciag znakow
+
+drugi to jest ciag znakow konczony tym zerem przykladowo
+
+a trzeci to moglo moglby byc jakby lista dwukierunkowa ze wz wskaznikami d na poczatek i koniec stringu napisu lancuchowego lancucha znakow ten ostatni sposb sposob jest chyba najrzadziej jakby praktykowany
+
+ten drugi sposob jest chyba najczestszy no ale no ale chyba nie bardzijiej bardzo niz ten z dlugoscia
+
+tzn ten  tez jest lista z elementem z straznikowym na sma samym koncu j lista jednokierunkowa jakby czwarty sposob tez stosowany czyli jakby ze wszystkich sposobow ktore tu wymienilem podalem chyba jakby
+
+wsyzstkie mozliwosci podalem przy czym sposob z lista dwukierunkowa jest chyba najrzadziej sie jesli i wo olg w ogole stosowany tj
